@@ -12,18 +12,18 @@ This repository provides implementations of four proposed scalable RKM models.
 
 The implemented models are:
 
-# InCor-RKM: Informative core sampled restricted kernel machine
+1. InCor-RKM: Informative core sampled restricted kernel machine
 
-# RKM-RAFT: Restricted kernel machine with randomized Fourier features and approximate factorization technique 
+2. RKM-RAFT: Restricted kernel machine with randomized Fourier features and approximate factorization technique 
 
-# RKMRF: RKM with random Fourier features
+3. RKMRF: RKM with random Fourier features
 
-# RKMRF-S: RKM with RFF and sampling
+4. RKMRF-S: RKM with RFF and sampling
 
 
 Train.txt / Test.txt corresponds to example training and testing datasets.
 
-# Folder Descriptions
+Folder Descriptions
 1. InCor-RKM
 
 Files:
